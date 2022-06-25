@@ -1,3 +1,3 @@
-👋 Hi I'm Kamal!
+# Hi there!
 
-I am a Statistics student at the University of Indonesia. 
+My name is Kamal, a Statistics student at the University of Indonesia. I have passion in data related fields, such as data analysis, data scientist, and data engineering.
