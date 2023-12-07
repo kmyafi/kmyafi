@@ -2,7 +2,7 @@
 
 <p>I'm Kamal, penultimate year <b>Statistics student</b> at the University of Indonesia. I have a passion in data related fields, such as <b>data analysis</b> and <b>machine learning</b>.</p>
 
-<h3>Things I code with</h3>
+<h3>Tools I use</h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="r" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
