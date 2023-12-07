@@ -2,16 +2,16 @@
 
 <p>I'm Kamal, a penultimate year <b>Statistics student</b> at the University of Indonesia. I have a passion in data related fields, such as <b>data analysis</b> and <b>machine learning</b>.</p>
 
-<h3>Tools I use</h3>
+<h3>Languages & Tools I use</h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="r" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="excel" src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
-  <img alt="excel" src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img alt="excel" src="https://img.shields.io/badge/-Visual_Basic-512BD4?style=flat-square&logo=visualbasic&logoColor=white" />
+  <img alt="looker" src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img alt="microsoftoffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
+  <img alt="visualbasic" src="https://img.shields.io/badge/-Visual_Basic-512BD4?style=flat-square&logo=visual-basic&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
