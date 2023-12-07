@@ -10,3 +10,7 @@
   <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="tableau" src="https://img.shields.io/badge/-Tableau-e8762c?style=flat-square&logo=tableau&logoColor=white" />
 </p>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/kmyafi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kamalmyafi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
