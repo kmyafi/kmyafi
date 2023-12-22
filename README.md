@@ -12,6 +12,9 @@
   <img alt="looker" src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
   <img alt="microsoftoffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
   <img alt="visualbasic" src="https://img.shields.io/badge/-Visual_Basic-512BD4?style=flat-square&logo=visual-basic&logoColor=white" />
+  <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 <h3>Where to find me</h3>
