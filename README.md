@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hi there!</h1>
 
-<p>I'm Kamal, a penultimate year <b>Statistics student</b> at the University of Indonesia. I have a passion in data related fields, such as <b>data analysis</b> and <b>machine learning</b>.</p>
+<p>I'm Kamal, a final year <b>Statistics student</b> at the University of Indonesia. I have a passion in data related fields, such as <b>data analysis</b> and <b>machine learning</b>.</p>
 
 <h3>Languages & Tools I use</h3>
 <p>
